@@ -1,2 +1,2 @@
-# cosmology-pp
+# cosmology++
 cosmology++
